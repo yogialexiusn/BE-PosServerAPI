@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# React
+*.log
+yarn-error.log
+build/
+.cache/
+public/
+
+# Next.js
+.next/
+out/
